@@ -4,6 +4,6 @@ It is a customisable slide bar madden to works perfectly whit Angular.js. You ca
 * This project allow you to edit all styles to integrate the slide bar perfectly to your site. 
 * You can create many sliders in a single slide bar as you want. 
  
-*To run:
-> *$ npm install -g serve
-> *$ serve
+* To run:
++ $ npm install -g serve
++ $ serve
